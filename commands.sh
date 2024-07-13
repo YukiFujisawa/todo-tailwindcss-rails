@@ -24,7 +24,7 @@ fi
 # コマンドを実行
 case "$1" in
     up)
-        docker-compose up
+        docker-compose up -d
         ;;
     down)
         docker-compose down
