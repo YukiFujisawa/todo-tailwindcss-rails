@@ -1,0 +1,6 @@
+{
+  "name": "Existing Docker Compose",
+  "dockerComposeFile": ["../docker-compose.yml"],
+  "service": "web",
+  "workspaceFolder": "/myapp"
+}
